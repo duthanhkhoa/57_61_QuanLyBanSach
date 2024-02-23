@@ -1,0 +1,82 @@
+D:\Workspace\Windows Form\do_an\form_qlbansach\57_61_QuanLyBanSach\bin\Debug\57_61_QuanLyBanSach.exe.config
+D:\Workspace\Windows Form\do_an\form_qlbansach\57_61_QuanLyBanSach\bin\Debug\57_61_QuanLyBanSach.exe
+D:\Workspace\Windows Form\do_an\form_qlbansach\57_61_QuanLyBanSach\bin\Debug\57_61_QuanLyBanSach.pdb
+D:\Workspace\Windows Form\do_an\form_qlbansach\57_61_QuanLyBanSach\obj\Debug\57_61_QuanLyBanSach.csproj.AssemblyReference.cache
+D:\Workspace\Windows Form\do_an\form_qlbansach\57_61_QuanLyBanSach\obj\Debug\57_61_QuanLyBanSach.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\Windows Form\do_an\form_qlbansach\57_61_QuanLyBanSach\obj\Debug\_57_61_QuanLyBanSach.frmnhanvien.resources
+D:\Workspace\Windows Form\do_an\form_qlbansach\57_61_QuanLyBanSach\obj\Debug\_57_61_QuanLyBanSach.Properties.Resources.resources
+D:\Workspace\Windows Form\do_an\form_qlbansach\57_61_QuanLyBanSach\obj\Debug\57_61_QuanLyBanSach.csproj.GenerateResource.cache
+D:\Workspace\Windows Form\do_an\form_qlbansach\57_61_QuanLyBanSach\obj\Debug\57_61_QuanLyBanSach.csproj.CoreCompileInputs.cache
+D:\Workspace\Windows Form\do_an\form_qlbansach\57_61_QuanLyBanSach\obj\Debug\57_61_QuanLyBanSach.exe
+D:\Workspace\Windows Form\do_an\form_qlbansach\57_61_QuanLyBanSach\obj\Debug\57_61_QuanLyBanSach.pdb
+D:\Workspace\Windows Form\do_an\form_qlbansach\57_61_QuanLyBanSach\obj\Debug\_57_61_QuanLyBanSach.frmloaisach.resources
+D:\Workspace\Windows Form\do_an\form_qlbansach\57_61_QuanLyBanSach\obj\Debug\_57_61_QuanLyBanSach.frmnhaxuatban.resources
+D:\Workspace\windows_form\do_an\form_qlbansach\57_61_QuanLyBanSach\bin\Debug\57_61_QuanLyBanSach.exe.config
+D:\Workspace\windows_form\do_an\form_qlbansach\57_61_QuanLyBanSach\bin\Debug\57_61_QuanLyBanSach.exe
+D:\Workspace\windows_form\do_an\form_qlbansach\57_61_QuanLyBanSach\bin\Debug\57_61_QuanLyBanSach.pdb
+D:\Workspace\windows_form\do_an\form_qlbansach\57_61_QuanLyBanSach\obj\Debug\57_61_QuanLyBanSach.csproj.AssemblyReference.cache
+D:\Workspace\windows_form\do_an\form_qlbansach\57_61_QuanLyBanSach\obj\Debug\57_61_QuanLyBanSach.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\windows_form\do_an\form_qlbansach\57_61_QuanLyBanSach\obj\Debug\_57_61_QuanLyBanSach.frmloaisach.resources
+D:\Workspace\windows_form\do_an\form_qlbansach\57_61_QuanLyBanSach\obj\Debug\_57_61_QuanLyBanSach.frmnhanvien.resources
+D:\Workspace\windows_form\do_an\form_qlbansach\57_61_QuanLyBanSach\obj\Debug\_57_61_QuanLyBanSach.frmnhaxuatban.resources
+D:\Workspace\windows_form\do_an\form_qlbansach\57_61_QuanLyBanSach\obj\Debug\_57_61_QuanLyBanSach.Properties.Resources.resources
+D:\Workspace\windows_form\do_an\form_qlbansach\57_61_QuanLyBanSach\obj\Debug\57_61_QuanLyBanSach.csproj.GenerateResource.cache
+D:\Workspace\windows_form\do_an\form_qlbansach\57_61_QuanLyBanSach\obj\Debug\57_61_QuanLyBanSach.csproj.CoreCompileInputs.cache
+D:\Workspace\windows_form\do_an\form_qlbansach\57_61_QuanLyBanSach\obj\Debug\57_61_QuanLyBanSach.exe
+D:\Workspace\windows_form\do_an\form_qlbansach\57_61_QuanLyBanSach\obj\Debug\57_61_QuanLyBanSach.pdb
+D:\Workspace\windows_form\do_an\form_qlbansach\57_61_QuanLyBanSach\obj\Debug\_57_61_QuanLyBanSach.frmhoadonban.resources
+D:\Workspace\windows_form\do_an\form_qlbansach\57_61_QuanLyBanSach\bin\Debug\FontAwesome.Sharp.dll
+D:\Workspace\windows_form\do_an\form_qlbansach\57_61_QuanLyBanSach\obj\Debug\57_61_QuanLyBanSach.csproj.CopyComplete
+D:\Workspace\windows_form\do_an\form_qlbansach\57_61_QuanLyBanSach\bin\Debug\Syncfusion.Compression.Portable.dll
+D:\Workspace\windows_form\do_an\form_qlbansach\57_61_QuanLyBanSach\bin\Debug\Syncfusion.Licensing.dll
+D:\Workspace\windows_form\do_an\form_qlbansach\57_61_QuanLyBanSach\bin\Debug\Syncfusion.OfficeChart.Portable.dll
+D:\Workspace\windows_form\do_an\form_qlbansach\57_61_QuanLyBanSach\bin\Debug\Syncfusion.Presentation.Portable.dll
+D:\Workspace\windows_form\do_an\form_qlbansach\57_61_QuanLyBanSach\bin\Debug\Syncfusion.Compression.Portable.xml
+D:\Workspace\windows_form\do_an\form_qlbansach\57_61_QuanLyBanSach\bin\Debug\Syncfusion.OfficeChart.Portable.xml
+D:\Workspace\windows_form\do_an\form_qlbansach\57_61_QuanLyBanSach\bin\Debug\Syncfusion.Presentation.Portable.xml
+D:\Workspace\windows_form\do_an\form_qlbansach\57_61_QuanLyBanSach\obj\Debug\_57_61_QuanLyBanSach.frmMenuMain.resources
+D:\Workspace\windows_form\do_an\form_qlbansach\57_61_QuanLyBanSach\obj\Debug\_57_61_QuanLyBanSach.frmKhachHang.resources
+D:\Workspace\windows_form\do_an\form_qlbansach\57_61_QuanLyBanSach\obj\Debug\_57_61_QuanLyBanSach.frmTKHoaDonBan.resources
+D:\Workspace\windows_form\do_an\form_qlbansach\57_61_QuanLyBanSach\obj\Debug\_57_61_QuanLyBanSach.frmTKHoaDonNhap.resources
+D:\Workspace\windows_form\do_an\form_qlbansach\57_61_QuanLyBanSach\obj\Debug\_57_61_QuanLyBanSach.frmTKSach.resources
+D:\Workspace\windows_form\do_an\form_qlbansach\57_61_QuanLyBanSach\obj\Debug\_57_61_QuanLyBanSach.frmCTHoaDonNhap.resources
+D:\Workspace\windows_form\do_an\form_qlbansach\57_61_QuanLyBanSach\obj\Debug\_57_61_QuanLyBanSach.frmLoaiBia.resources
+D:\Workspace\windows_form\do_an\form_qlbansach\57_61_QuanLyBanSach\obj\Debug\_57_61_QuanLyBanSach.frmSach.resources
+D:\Workspace\windows_form\do_an\form_qlbansach\57_61_QuanLyBanSach\obj\Debug\_57_61_QuanLyBanSach.frmTacGia.resources
+D:\Workspace\windows_form\do_an\form_qlbansach\57_61_QuanLyBanSach\obj\Debug\_57_61_QuanLyBanSach.frmNhaCungcap.resources
+D:\Workspace\windows_form\do_an\form_qlbansach\57_61_QuanLyBanSach\obj\Debug\_57_61_QuanLyBanSach.frmThongKeHDBan.resources
+D:\Workspace\windows_form\do_an\form_qlbansach\57_61_QuanLyBanSach\obj\Debug\_57_61_QuanLyBanSach.frmThongKeHDNhap.resources
+C:\Users\PC\Downloads\57_61_QuanLyBanSach\57_61_QuanLyBanSach\bin\Debug\57_61_QuanLyBanSach.exe.config
+C:\Users\PC\Downloads\57_61_QuanLyBanSach\57_61_QuanLyBanSach\bin\Debug\57_61_QuanLyBanSach.exe
+C:\Users\PC\Downloads\57_61_QuanLyBanSach\57_61_QuanLyBanSach\bin\Debug\57_61_QuanLyBanSach.pdb
+C:\Users\PC\Downloads\57_61_QuanLyBanSach\57_61_QuanLyBanSach\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\PC\Downloads\57_61_QuanLyBanSach\57_61_QuanLyBanSach\bin\Debug\Syncfusion.Compression.Portable.dll
+C:\Users\PC\Downloads\57_61_QuanLyBanSach\57_61_QuanLyBanSach\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\PC\Downloads\57_61_QuanLyBanSach\57_61_QuanLyBanSach\bin\Debug\Syncfusion.OfficeChart.Portable.dll
+C:\Users\PC\Downloads\57_61_QuanLyBanSach\57_61_QuanLyBanSach\bin\Debug\Syncfusion.Presentation.Portable.dll
+C:\Users\PC\Downloads\57_61_QuanLyBanSach\57_61_QuanLyBanSach\bin\Debug\Syncfusion.Compression.Portable.xml
+C:\Users\PC\Downloads\57_61_QuanLyBanSach\57_61_QuanLyBanSach\bin\Debug\Syncfusion.OfficeChart.Portable.xml
+C:\Users\PC\Downloads\57_61_QuanLyBanSach\57_61_QuanLyBanSach\bin\Debug\Syncfusion.Presentation.Portable.xml
+C:\Users\PC\Downloads\57_61_QuanLyBanSach\57_61_QuanLyBanSach\obj\Debug\57_61_QuanLyBanSach.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\57_61_QuanLyBanSach\57_61_QuanLyBanSach\obj\Debug\_57_61_QuanLyBanSach.frmCTHoaDonNhap.resources
+C:\Users\PC\Downloads\57_61_QuanLyBanSach\57_61_QuanLyBanSach\obj\Debug\_57_61_QuanLyBanSach.frmhoadonban.resources
+C:\Users\PC\Downloads\57_61_QuanLyBanSach\57_61_QuanLyBanSach\obj\Debug\_57_61_QuanLyBanSach.frmKhachHang.resources
+C:\Users\PC\Downloads\57_61_QuanLyBanSach\57_61_QuanLyBanSach\obj\Debug\_57_61_QuanLyBanSach.frmLoaiBia.resources
+C:\Users\PC\Downloads\57_61_QuanLyBanSach\57_61_QuanLyBanSach\obj\Debug\_57_61_QuanLyBanSach.frmloaisach.resources
+C:\Users\PC\Downloads\57_61_QuanLyBanSach\57_61_QuanLyBanSach\obj\Debug\_57_61_QuanLyBanSach.frmNhaCungcap.resources
+C:\Users\PC\Downloads\57_61_QuanLyBanSach\57_61_QuanLyBanSach\obj\Debug\_57_61_QuanLyBanSach.frmnhanvien.resources
+C:\Users\PC\Downloads\57_61_QuanLyBanSach\57_61_QuanLyBanSach\obj\Debug\_57_61_QuanLyBanSach.frmnhaxuatban.resources
+C:\Users\PC\Downloads\57_61_QuanLyBanSach\57_61_QuanLyBanSach\obj\Debug\_57_61_QuanLyBanSach.frmMenuMain.resources
+C:\Users\PC\Downloads\57_61_QuanLyBanSach\57_61_QuanLyBanSach\obj\Debug\_57_61_QuanLyBanSach.frmSach.resources
+C:\Users\PC\Downloads\57_61_QuanLyBanSach\57_61_QuanLyBanSach\obj\Debug\_57_61_QuanLyBanSach.frmTacGia.resources
+C:\Users\PC\Downloads\57_61_QuanLyBanSach\57_61_QuanLyBanSach\obj\Debug\_57_61_QuanLyBanSach.frmThongKeHDBan.resources
+C:\Users\PC\Downloads\57_61_QuanLyBanSach\57_61_QuanLyBanSach\obj\Debug\_57_61_QuanLyBanSach.frmThongKeHDNhap.resources
+C:\Users\PC\Downloads\57_61_QuanLyBanSach\57_61_QuanLyBanSach\obj\Debug\_57_61_QuanLyBanSach.frmTKHoaDonBan.resources
+C:\Users\PC\Downloads\57_61_QuanLyBanSach\57_61_QuanLyBanSach\obj\Debug\_57_61_QuanLyBanSach.frmTKHoaDonNhap.resources
+C:\Users\PC\Downloads\57_61_QuanLyBanSach\57_61_QuanLyBanSach\obj\Debug\_57_61_QuanLyBanSach.frmTKSach.resources
+C:\Users\PC\Downloads\57_61_QuanLyBanSach\57_61_QuanLyBanSach\obj\Debug\_57_61_QuanLyBanSach.Properties.Resources.resources
+C:\Users\PC\Downloads\57_61_QuanLyBanSach\57_61_QuanLyBanSach\obj\Debug\57_61_QuanLyBanSach.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\57_61_QuanLyBanSach\57_61_QuanLyBanSach\obj\Debug\57_61_QuanLyBanSach.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\57_61_QuanLyBanSach\57_61_QuanLyBanSach\obj\Debug\57_61_QuanLyBanSach.csproj.CopyComplete
+C:\Users\PC\Downloads\57_61_QuanLyBanSach\57_61_QuanLyBanSach\obj\Debug\57_61_QuanLyBanSach.exe
+C:\Users\PC\Downloads\57_61_QuanLyBanSach\57_61_QuanLyBanSach\obj\Debug\57_61_QuanLyBanSach.pdb
